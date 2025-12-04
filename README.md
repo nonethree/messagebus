@@ -1,1 +1,1 @@
-# messagebus
+Simple and safe message bus system for Unity
